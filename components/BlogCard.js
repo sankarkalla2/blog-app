@@ -10,6 +10,7 @@ export function BlogCard({title, coverPhoto, datePublished,slug}) {
           />
         </div>
       </Link>
+      <h1>Hello world</h1>
     </div>
   )
 }
