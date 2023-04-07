@@ -18,6 +18,7 @@ export function BlogCard({title, coverPhoto, datePublished,slug}) {
       <h5>git branchs</h5>
       <h6>hello world</h6>
       <p>paragraph</p>
+      <p>paragraph 2</p>
     </div>
   )
 }
